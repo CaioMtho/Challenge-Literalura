@@ -1,42 +1,37 @@
 <div align="center">
   <h1>
-    L I T E R A T U R A
+    📖 L I T E R A T U R A 📖
   </h1>
   <p>
     Challenge - Oracle ONE
   </p>
-  📖
 </div>
 
-## Índice
+<div align="center">
+<img src="badge literalura.png"/>
+</div>
 
-- [Descrição](#descrição)
-- [Uso](#uso)
-- [Funcionalidades](#funcionalidades)
-- [Tecnologias](#tecnologias)
-- [Prints](#prints)
-
-## Descrição
+## 🕵️ Descrição
 O desafio proposto é criar uma aplicação com Spring Boot que realize pesquisas por livros com a api gutendex.com e faça operações de persistência e exibição de dados.
 
-## Uso
+## 🛠️ Uso
 Use git clone e execute o projeto, será necessário também gerar o próprio servidor postgres e configurar adequadamente em application.properties.
 ```bash
 git clone https://github.com/CaioMtho/Challenge-Literalura
 ```
 > Depende do Java 21
 
-## Funcionalidades
+## 🧰 Funcionalidades
 - Pesquisar livros disponíveis no Gutendex;
 - Persistir dados de livros e autores pesquisados;
 - Apresentar os dados persistidos ao usuário;
 - Filtrar autores vivos em determinado ano e livros com uma linguagem específica.
 
-## Prints
+## 📷 Prints
 ![menu](screenshots-literalura/screenshot-literalura-menu.png)
 
 > Outros prints em "screenshots-literalura"
-## Tecnologias
+## 🤖 Tecnologias
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
